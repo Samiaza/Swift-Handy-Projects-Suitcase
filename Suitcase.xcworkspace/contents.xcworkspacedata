@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Time to RxSwift/Time to RxSwift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Return to source/Return to source.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Delegates/Delegates.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Generics/Generics.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Rescue service/Rescue service.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Number masking/Number masking.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Crop circles/Crop circles.xcodeproj">
+   </FileRef>
+</Workspace>
