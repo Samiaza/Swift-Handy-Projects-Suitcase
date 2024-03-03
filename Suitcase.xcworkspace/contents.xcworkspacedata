@@ -2,6 +2,21 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Time to XcTest/Time to XcTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Time to DI/Time to DI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Time to Alamofire/Time to Alamofire.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Time to URLSession/Time to URLSession.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Time to Realm/Time to Realm.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Time to RxSwift/Time to RxSwift.xcodeproj">
    </FileRef>
    <FileRef
